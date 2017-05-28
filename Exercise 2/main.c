@@ -1,13 +1,3 @@
-/*
- ============================================================================
- Name        : C_hw2.c
-
- Author      : Haran & Shif
- Version     :
- Copyright   :
- Description : Homework 2 in C, Ansi-style
- ============================================================================
- */
 #include "SPBufferset.h"
 #include "main_aux.h"
 #include "sp_nim.h"
